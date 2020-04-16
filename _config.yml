@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Wojciech Michal Pawlak"
   avatar           : "profile.png"
-  bio              : |+
-    Senior Developer in Portfolio Performance and Risk Analytics /&nbsp;
-    System Performance Tech Lead at SimCorp&nbsp;
-    Ph.D. Student in High-Performance Computational Finance at University of Copenhagen
+  bio              : "Senior Developer in Portfolio Performance and Risk Analytics /&nbsp;
+                      System Performance Tech Lead at SimCorp&nbsp;
+                      Ph.D. Student in High-Performance Computational Finance at University of Copenhagen"
   location         : "Copenhagen, Denmark"
   employer         : "SimCorp / DIKU, UCPH"
   pubmed           : 
