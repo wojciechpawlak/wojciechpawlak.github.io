@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wojciech Michal Pawlak"
 title_separator          : "-"
 name                     : &name "Wojciech Michal Pawlak"
-description              : &description "Senior Developer of Portfolio Performance and Risk Analytics/System Performance Tech Lead at SimCorp / Ph.D. Student in High-Performance Computational Finance"
+description              : &description "Senior Developer in Portfolio Performance and Risk Analytics / System Performance Tech Lead at SimCorp / Ph.D. Student in High-Performance Computational Finance"
 url                      : https://wojciechpawlak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wojciechpawlak/wojciechpawlak.github.io"
@@ -82,9 +82,12 @@ analytics:
 author:
   name             : "Wojciech Michal Pawlak"
   avatar           : "profile.png"
-  bio              : "Senior Developer of Portfolio Performance and Risk Analytics/System Performance Tech Lead at SimCorp / Ph.D. Student in High-Performance Computational Finance at University of Copenhagen"
+  bio              : |+
+    "Senior Developer of Portfolio Performance and Risk Analytics
+    System Performance Tech Lead at SimCorp
+    Ph.D. Student in High-Performance Computational Finance at University of Copenhagen"
   location         : "Copenhagen, Denmark"
-  employer         : "SimCorp / University of Copenhagen"
+  employer         : "SimCorp / DIKU, UCPH"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DgyZ21AAAAAJ&hl=en"
   email            : "wojciechpawlak@gmail.com"
